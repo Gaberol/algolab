@@ -1,1 +1,1 @@
-# algolabra
+# algolab
